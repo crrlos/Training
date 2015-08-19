@@ -14,7 +14,7 @@ and open the template in the editor.
         // put your code here
         
         
-        
+        echo 'holasocio';
         //UNa linea de codigo.
         ?>
     </body>

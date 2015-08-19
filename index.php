@@ -12,6 +12,9 @@ and open the template in the editor.
     <body>
         <?php
        
+        function sumar($a,$b){
+            
+        }
         
         ?>
     </body>

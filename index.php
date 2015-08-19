@@ -15,8 +15,10 @@ and open the template in the editor.
         
         
         echo 'holasocio';
+        echo 'hola';
         echo 'trabajo en mi maquina';
         //UNa linea de codigo.
+        
         ?>
     </body>
 </html>

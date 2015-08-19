@@ -15,6 +15,7 @@ and open the template in the editor.
         function sumar($a,$b){
             
         }
+		function multiplicar($a,$b){}
         
         ?>
     </body>

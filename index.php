@@ -11,14 +11,7 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-        // put your code here
-        
-        
-        echo 'holasocio';
-        echo 'hola';
-        
-        echo 'trabajo en mi maquina';
-        //UNa linea de codigo.
+       
         
         ?>
     </body>
